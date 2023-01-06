@@ -8,23 +8,23 @@ In this Jupyter notebook, we will perform EDA on the Corona Virus dataset which 
 # Analysis
 From this EDA, we can answer questions like:-
 
-Which are the 5 most affected states in India?
-Top 10 states with max active cases?
-Top 10 states with max deaths?
-Top 10 states with highest mortality rates?
-Which date of every month recorded the highest number of cases in the world?
-Most vaccinated States?
+1. Which are the 5 most affected states in India?
+2. Top 10 states with max active cases?
+3. Top 10 states with max deaths?
+4. Top 10 states with highest mortality rates?
+5. Which date of every month recorded the highest number of cases in the world?
+6. Most vaccinated States?
 
 # Data Visualization
 The graphs are also plotted for data visualization, using the Seaborn and Matplotlib libraries.
 
 # Requirements
-Python 2.7 or higher
-Jupyter Notebook pip install notebook
-Pandas pip install pandas
-Numpy pip install numpy
-Seaborn pip intall seaborn
-Matplotlib pip install matplotlib
+1. Python 2.7 or higher
+2. Jupyter Notebook pip install notebook
+3. Pandas pip install pandas
+4. Numpy pip install numpy
+5. Seaborn pip intall seaborn
+6. Matplotlib pip install matplotlib
 
 # Author
 Prabhat Sinha
